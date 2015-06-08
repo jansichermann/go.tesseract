@@ -15,7 +15,7 @@ import (
 	"unicode/utf8"
 	"unsafe"
 
-	"gopkg.in/GeertJohan/go.leptonica.v1"
+	"github.com/GeertJohan/go.leptonica"
 )
 
 const version = "1.0"
